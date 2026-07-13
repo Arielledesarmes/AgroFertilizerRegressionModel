@@ -1,0 +1,18 @@
+                                                   The FREQ Procedure
+
+                                       Cumulative    Cumulative
+Crop_Type    Frequency    Percent     Frequency      Percent
+------------------------------------------------------------------
+Citrus              12     20.00           12        20.00
+Corn                15     25.00           27        45.00
+Rice                10     16.67           37        61.67
+Vegetable           16     26.67           53        88.33
+Wheat                7     11.67           60       100.00
+                                                   The FREQ Procedure
+
+                                       Cumulative    Cumulative
+Soil_Type    Frequency    Percent     Frequency      Percent
+------------------------------------------------------------------
+Clay                23     38.33           23        38.33
+Loamy               13     21.67           36        60.00
+Sandy               24     40.00           60       100.00
