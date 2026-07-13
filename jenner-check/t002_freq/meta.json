@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_freq",
+  "source_file": "AgroFertilizerCode.sas",
+  "source_blob_sha": "d7022e0c63ac82bd2b16f50adbd62ffc3de939bc",
+  "source_commit": "d3e844f41daffea0fa1a83bef1139dc4a87d309c",
+  "notes": "PROC FREQ frequency tables on crop_type and soil_type; mock 60-row AgroFertilizer substituted for the external CSV."
+}

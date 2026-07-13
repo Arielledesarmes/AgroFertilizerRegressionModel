@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_reg_stepwise",
+  "source_file": "AgroFertilizerCode.sas",
+  "source_blob_sha": "d7022e0c63ac82bd2b16f50adbd62ffc3de939bc",
+  "source_commit": "d3e844f41daffea0fa1a83bef1139dc4a87d309c",
+  "notes": "PROC SURVEYSELECT 75/25 split then PROC REG stepwise variable selection on the training set; mock 60-row AgroFertilizer substituted for the external CSV."
+}

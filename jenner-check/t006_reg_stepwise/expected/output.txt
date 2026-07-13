@@ -1,0 +1,44 @@
+The SURVEYSELECT Procedure
+
+Selection Method     SRS
+Input Data Set       AgroFertilizer
+Number of Obs Read   60
+Sample Size          60
+Sampling Weight      1.0000
+                                                   The REG Procedure                                                    
+                                                     Model: MODEL1                                                      
+                                               Dependent Variable: new_y                                                
+
+Source                 DF  Sum of Squares  Mean Square   F Value    Pr > F
+---------------  --------  --------------  -----------  --------  --------
+Model                   5      4231.90018    846.38004     17.48    <.0001
+Error                  39      1888.86854     48.43253                    
+Corrected Total        44      6120.76872                                 
+
+Root MSE           6.95935    R-Square            0.6914
+Dependent Mean      30.26133    Adj R-Sq            0.6518
+Coeff Var         22.99749
+
+                            Parameter Estimates                            
+
+Variable                   DF  Estimate  Standard Error   t Value  Pr > |t|
+-------------------  --------  --------  --------------  --------  --------
+Intercept                   1   1.68434         5.12678      0.33    0.7443
+RAINFALL                    1   0.02538         0.00390      6.51    <.0001
+TEMPERATURE                 1   0.67694         0.14109      4.80    <.0001
+SOIL_ORGANIC_CARBON         1  -3.40515         1.12358     -3.03    0.0043
+IRR_DRIP                    1   7.04666         2.41354      2.92    0.0058
+FERT_NPK                    1  -6.73894         2.84139     -2.37    0.0227
+
+             Summary of Stepwise Selection Selection             
+
+    Step  Variable Entered/Removed  Variable               Pr > F
+--------  ------------------------  -------------------  --------
+       1  Entered                   rainfall               <.0001
+       2  Entered                   temperature            0.0002
+       3  Entered                   soil_organic_carbon    0.0301
+       4  Entered                   irr_drip               0.0264
+       5  Entered                   fert_npk               0.0227
+       6  Entered                   growth_mid             0.1434
+       7  Removed                   growth_mid             0.1434
+

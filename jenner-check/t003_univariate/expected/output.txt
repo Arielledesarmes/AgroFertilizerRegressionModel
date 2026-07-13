@@ -1,0 +1,57 @@
+                                                The UNIVARIATE Procedure
+                                         Variable:  Total_Fertilizer_Loss_kg_ha
+
+                                                        Moments
+
+N                                 60    Sum Weights                       60
+Mean                       30.812667    Sum Observations         1848.760000
+Std Deviation              11.627185    Variance                  135.191427
+Skewness                    0.017384    Kurtosis                   -0.639813
+Uncorrected SS          64941.519800    Corrected SS             7976.294173
+Coeff Variation            37.735081    Std Error Mean              1.501063
+
+          Basic Statistical Measures          
+
+Location             Variability              
+--------  ---------  -------------  ----------
+Mean      30.812667  Std Deviation   11.627185
+Median    30.645000  Variance       135.191427
+Mode              .  Range           46.260000
+
+Quantiles (Definition 5)
+
+Quantile     Estimate
+----------  ---------
+0% Min       7.760000
+1%           7.760000
+5%          11.780000
+10%         15.545000
+25% Q1      21.595000
+50% Median  30.645000
+75% Q3      39.325000
+90%         48.795000
+95%         50.935000
+99%         54.020000
+100% Max    54.020000
+
+          Extreme Observations          
+
+Lowest               Highest            
+--------  ---------  --------  ---------
+Value      7.760000  Value     49.590000
+Value      7.900000  Value     50.830000
+Value     11.300000  Value     51.040000
+Value     12.260000  Value     51.190000
+Value     13.780000  Value     54.020000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         20.527229381         0
+Sign                       30         0
+Signed Rank              1830         0
+

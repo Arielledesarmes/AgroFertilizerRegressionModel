@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T03:08:13.578914+00:00",
+  "_captured_run_id": "r_f3e316d8663447479d0ccd6833636495",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC SURVEYSELECT",
+    "NOTE: PROC REG"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

@@ -1,0 +1,20 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA AgroFertilizer
+
+NOTE: Processing inline DATALINES (60 lines)
+
+NOTE: Read 60 rows from DATALINES.
+NOTE: Wrote AgroFertilizer (60 rows, 21 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA AgroFertilizer
+
+
+NOTE: Read 60 rows from AgroFertilizer.
+NOTE: Wrote AgroFertilizer (60 rows, 39 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC MEANS
+NOTE: PROC MEANS statement used.

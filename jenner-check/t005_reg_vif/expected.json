@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T03:08:13.578914+00:00",
+  "_captured_run_id": "r_0a452a2ceb4a4c75b5b4ddbf7d78eaae",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC REG",
+    "NOTE: Read 60 rows from AgroFertilizer."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
